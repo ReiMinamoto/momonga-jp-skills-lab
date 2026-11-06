@@ -1,0 +1,8 @@
+{
+  "name": "extra-jp",
+  "version": "0.1.0",
+  "description": "Synthetic test",
+  "skills": [
+    "./extra/"
+  ]
+}

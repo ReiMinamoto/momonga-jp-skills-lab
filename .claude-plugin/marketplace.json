@@ -18,6 +18,26 @@
       "name": "folder-jp",
       "source": "./plugins/folder-jp",
       "description": "Synthetic skill test"
+    },
+    {
+      "name": "dot-jp",
+      "source": "./plugins/dot-jp",
+      "description": "Synthetic skill test"
+    },
+    {
+      "name": "extra-jp",
+      "source": "./plugins/extra-jp",
+      "description": "Synthetic skill test"
+    },
+    {
+      "name": "noname-jp",
+      "source": "./plugins/noname-jp",
+      "description": "Synthetic skill test"
+    },
+    {
+      "name": "alias-jp",
+      "source": "./plugins/alias-jp",
+      "description": "Synthetic skill test"
     }
   ]
 }
