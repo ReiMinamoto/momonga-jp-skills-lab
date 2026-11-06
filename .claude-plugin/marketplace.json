@@ -1,0 +1,23 @@
+{
+  "name": "momonga-jp-skills-lab",
+  "owner": {
+    "name": "Test"
+  },
+  "plugins": [
+    {
+      "name": "root-jp",
+      "source": "./plugins/root-jp",
+      "description": "Synthetic skill test"
+    },
+    {
+      "name": "root-ascii",
+      "source": "./plugins/root-ascii",
+      "description": "Synthetic skill test"
+    },
+    {
+      "name": "folder-jp",
+      "source": "./plugins/folder-jp",
+      "description": "Synthetic skill test"
+    }
+  ]
+}
