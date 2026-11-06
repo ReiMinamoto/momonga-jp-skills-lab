@@ -38,6 +38,11 @@
       "name": "alias-jp",
       "source": "./plugins/alias-jp",
       "description": "Synthetic skill test"
+    },
+    {
+      "name": "日本語プラグイン",
+      "source": "./plugins/japanese-plugin",
+      "description": "Synthetic skill test"
     }
   ]
 }
