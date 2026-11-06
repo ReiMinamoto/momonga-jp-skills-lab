@@ -43,6 +43,11 @@
       "name": "日本語プラグイン",
       "source": "./plugins/japanese-plugin",
       "description": "Synthetic skill test"
+    },
+    {
+      "name": "日本語検索実験",
+      "source": "./plugins/japanese-ascii",
+      "description": "Synthetic skill test"
     }
   ]
 }
